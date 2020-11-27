@@ -1,0 +1,16 @@
+.CIV
+{
+	position:absolute;
+	top:50px;
+	left:100px;
+	display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+body
+{
+
+	background:url(Главная.jpg);
+
+}

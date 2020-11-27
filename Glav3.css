@@ -1,0 +1,22 @@
+.BOX
+{
+	position:absolute;
+	top:70px;
+	left:0px;
+	display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.LOLO
+{
+background:#5D5D5D;
+	
+}
+
+body
+{
+
+	background:url(Главная.jpg);
+
+}
